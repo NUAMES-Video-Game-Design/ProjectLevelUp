@@ -5,9 +5,30 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_pixel</sprite>
+    <sprite>sprites\spr_pressenter</sprite>
+    <sprite>sprites\spr_Title</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font_RS</font>
+  </fonts>
+  <objects name="objects">
+    <object>objects\obj_pixel</object>
+    <object>objects\obj_startstory</object>
+    <object>objects\obj_pressenter</object>
+    <object>objects\obj_Title</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room_startscreen</room>
+    <room>rooms\room_exposition</room>
+    <room>rooms\room_breakout</room>
+    <room>rooms\room_pong</room>
+    <room>rooms\room_platformer</room>
+    <room>rooms\room_tutorial</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
