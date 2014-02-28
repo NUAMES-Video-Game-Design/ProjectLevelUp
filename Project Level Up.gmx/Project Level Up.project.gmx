@@ -9,6 +9,7 @@
     <sprite>sprites\spr_pixel</sprite>
     <sprite>sprites\spr_pressenter</sprite>
     <sprite>sprites\spr_Title</sprite>
+    <sprite>sprites\Random_Sprite</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
