@@ -103,7 +103,7 @@ subtext = ""
         <arguments>
           <argument>
             <kind>13</kind>
-            <string>0</string>
+            <string>16777215</string>
           </argument>
         </arguments>
       </action>
