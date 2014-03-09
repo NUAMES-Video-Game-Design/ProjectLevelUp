@@ -71,6 +71,9 @@
       <sprite>sprites\Dungeon_enemy_1</sprite>
       <sprite>sprites\Dungeon_Enemy_1_Death</sprite>
     </sprites>
+    <sprites name="Tutorial">
+      <sprite>sprites\sprite35</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\Title_Screen</background>
@@ -93,6 +96,7 @@
     <object>objects\obj_DW</object>
     <object>objects\obj_title</object>
     <object>objects\obj_press_space</object>
+    <object>objects\obj_tutorial_cntrls</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_splash_screen</room>
