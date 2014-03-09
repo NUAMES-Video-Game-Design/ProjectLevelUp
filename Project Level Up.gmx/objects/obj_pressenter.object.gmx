@@ -79,7 +79,7 @@ alarm [1] = 15
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="13">
+    <event eventtype="5" enumb="32">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -96,7 +96,7 @@ alarm [1] = 15
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>room_goto (room_exposition)
+            <string>room_goto (room_title_screen)
 transition_kind = 22
 </string>
           </argument>

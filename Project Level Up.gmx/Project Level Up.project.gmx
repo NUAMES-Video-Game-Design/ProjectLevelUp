@@ -4,8 +4,28 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sounds name="Songs/Backround_Music">
+      <sound>sound\song0</sound>
+      <sound>sound\song1</sound>
+      <sound>sound\song2</sound>
+      <sound>sound\song3</sound>
+      <sound>sound\song4</sound>
+      <sound>sound\song5</sound>
+      <sound>sound\song6</sound>
+      <sound>sound\song7</sound>
+      <sound>sound\song8</sound>
+      <sound>sound\song9</sound>
+    </sounds>
+    <sounds name="Dungeon_Effects">
+      <sound>sound\LightSaber</sound>
+    </sounds>
+  </sounds>
   <sprites name="sprites">
+    <sprites name="Title_Screen">
+      <sprite>sprites\Title</sprite>
+      <sprite>sprites\Start_Game_Button</sprite>
+    </sprites>
     <sprites name="Beggining_and_cut_scenes">
       <sprite>sprites\spr_pressenter</sprite>
       <sprite>sprites\spr_Title</sprite>
@@ -47,8 +67,10 @@
       <sprite>sprites\Dungeon_Character_Attack</sprite>
       <sprite>sprites\Dungeon_Wall_Top</sprite>
       <sprite>sprites\Dungeon_Wall</sprite>
+      <sprite>sprites\Dungeon_Transport_Gate</sprite>
+      <sprite>sprites\Dungeon_enemy_1</sprite>
+      <sprite>sprites\Dungeon_Enemy_1_Death</sprite>
     </sprites>
-    <sprite>sprites\sprite30</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Title_Screen</background>
@@ -65,20 +87,23 @@
     <object>objects\obj_pixel</object>
     <object>objects\obj_startstory</object>
     <object>objects\obj_pressenter</object>
-    <object>objects\obj_Title</object>
+    <object>objects\obj_splash_screen</object>
     <object>objects\Wall_Parent_edit_to_change_wall_proporties</object>
     <object>objects\obj_DWT</object>
     <object>objects\obj_DW</object>
+    <object>objects\obj_title</object>
+    <object>objects\obj_press_space</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room_startscreen</room>
+    <room>rooms\room_splash_screen</room>
+    <room>rooms\room_title_screen</room>
     <room>rooms\room_exposition</room>
     <room>rooms\room_tutorial</room>
     <room>rooms\room_pong</room>
     <room>rooms\room_breakout</room>
     <room>rooms\room_galaga</room>
     <room>rooms\room_platformer</room>
-    <room>rooms\dungeon_crawler</room>
+    <room>rooms\room_dungeon_crawler</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
