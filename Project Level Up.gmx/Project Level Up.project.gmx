@@ -38,6 +38,17 @@
       <sprite>sprites\Platformer_Enemy_Dearh</sprite>
       <sprite>sprites\End_Castle</sprite>
     </sprites>
+    <sprites name="Dungeon">
+      <sprite>sprites\Dungeon_Character_Standing</sprite>
+      <sprite>sprites\Dungeon_Character_Walk_Down</sprite>
+      <sprite>sprites\Dungeon_Character_Walk_Right</sprite>
+      <sprite>sprites\Dungeon_Character_Walk_Left</sprite>
+      <sprite>sprites\Dungeon_Character_Walk_Up</sprite>
+      <sprite>sprites\Dungeon_Character_Attack</sprite>
+      <sprite>sprites\Dungeon_Wall_Top</sprite>
+      <sprite>sprites\Dungeon_Wall</sprite>
+    </sprites>
+    <sprite>sprites\sprite30</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Title_Screen</background>
@@ -55,6 +66,9 @@
     <object>objects\obj_startstory</object>
     <object>objects\obj_pressenter</object>
     <object>objects\obj_Title</object>
+    <object>objects\Wall_Parent_edit_to_change_wall_proporties</object>
+    <object>objects\obj_DWT</object>
+    <object>objects\obj_DW</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_startscreen</room>
@@ -62,8 +76,8 @@
     <room>rooms\room_tutorial</room>
     <room>rooms\room_pong</room>
     <room>rooms\room_breakout</room>
-    <room>rooms\room_platformer</room>
     <room>rooms\room_galaga</room>
+    <room>rooms\room_platformer</room>
     <room>rooms\dungeon_crawler</room>
   </rooms>
   <help>
