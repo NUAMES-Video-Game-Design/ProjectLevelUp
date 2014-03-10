@@ -45,6 +45,7 @@
       <sprite>sprites\pong_ball</sprite>
       <sprite>sprites\Pong_Paddle</sprite>
       <sprite>sprites\Pong_Wall</sprite>
+      <sprite>sprites\Pong_Barrier</sprite>
     </sprites>
     <sprites name="Brick_Breaker">
       <sprite>sprites\Brick_Breaker_Wall</sprite>
@@ -103,6 +104,7 @@
       <object>objects\obj_pong_char</object>
       <object>objects\pong_ai</object>
       <object>objects\obj_pong_ball</object>
+      <object>objects\obj_pong_barrier</object>
     </objects>
     <objects name="Title_Splash_and_Tutorial">
       <object>objects\obj_pressenter</object>
