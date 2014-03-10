@@ -179,11 +179,11 @@ else {
             <kind>1</kind>
             <string>var a = irandom_range(0,1);
 if (a == 0 &amp;&amp; count == 0) {
-    speed = 5;
+    speed = 10;
     direction = 90;
 }
 else if(count == 0){
-    speed = 5;
+    speed = 10;
     direction = 270;
 }
 count++;
