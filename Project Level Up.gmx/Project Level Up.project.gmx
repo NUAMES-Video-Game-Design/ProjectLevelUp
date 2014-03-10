@@ -11,10 +11,10 @@
       <sound>sound\song2</sound>
       <sound>sound\song3</sound>
       <sound>sound\song4</sound>
-      <sound>sound\song5</sound>
+      <sound>sound\Pongsong</sound>
       <sound>sound\song6</sound>
       <sound>sound\song7</sound>
-      <sound>sound\song8</sound>
+      <sound>sound\Titleandcutscene</sound>
       <sound>sound\song9</sound>
     </sounds>
     <sounds name="Dungeon_Effects">
@@ -25,11 +25,15 @@
     <sprites name="Title_Screen">
       <sprite>sprites\Title</sprite>
       <sprite>sprites\Start_Game_Button</sprite>
+      <sprite>sprites\sprite36</sprite>
     </sprites>
     <sprites name="Beggining_and_cut_scenes">
       <sprite>sprites\spr_pressenter</sprite>
       <sprite>sprites\spr_Title</sprite>
       <sprite>sprites\spr_pixel</sprite>
+    </sprites>
+    <sprites name="Tutorial">
+      <sprite>sprites\sprite35</sprite>
     </sprites>
     <sprites name="Pong">
       <sprite>sprites\pong_ball</sprite>
@@ -71,9 +75,6 @@
       <sprite>sprites\Dungeon_enemy_1</sprite>
       <sprite>sprites\Dungeon_Enemy_1_Death</sprite>
     </sprites>
-    <sprites name="Tutorial">
-      <sprite>sprites\sprite35</sprite>
-    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\Title_Screen</background>
@@ -87,18 +88,24 @@
     <font>fonts\font_RS</font>
   </fonts>
   <objects name="objects">
+    <objects name="Title_Splash_and_Tutorial">
+      <object>objects\obj_pressenter</object>
+      <object>objects\obj_splash_screen</object>
+      <object>objects\obj_tutorial_cntrls</object>
+      <object>objects\TSA_splash</object>
+      <object>objects\TSA_spash_space</object>
+      <object>objects\obj_press_space</object>
+      <object>objects\obj_title</object>
+    </objects>
     <object>objects\obj_pixel</object>
     <object>objects\obj_startstory</object>
-    <object>objects\obj_pressenter</object>
-    <object>objects\obj_splash_screen</object>
     <object>objects\Wall_Parent_edit_to_change_wall_proporties</object>
     <object>objects\obj_DWT</object>
     <object>objects\obj_DW</object>
-    <object>objects\obj_title</object>
-    <object>objects\obj_press_space</object>
-    <object>objects\obj_tutorial_cntrls</object>
+    <object>objects\Music_change_pong</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_tsa_spalsh_screen</room>
     <room>rooms\room_splash_screen</room>
     <room>rooms\room_title_screen</room>
     <room>rooms\room_exposition</room>
