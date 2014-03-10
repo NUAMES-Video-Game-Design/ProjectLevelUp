@@ -8,18 +8,24 @@
     <sounds name="Songs/Backround_Music">
       <sound>sound\song0</sound>
       <sound>sound\song1</sound>
-      <sound>sound\song2</sound>
+      <sound>sound\PlatformerSong</sound>
       <sound>sound\song3</sound>
-      <sound>sound\song4</sound>
+      <sound>sound\Galagasong</sound>
       <sound>sound\Pongsong</sound>
       <sound>sound\song6</sound>
       <sound>sound\song7</sound>
       <sound>sound\Titleandcutscene</sound>
-      <sound>sound\song9</sound>
+      <sound>sound\Dungeonsong</sound>
     </sounds>
     <sounds name="Dungeon_Effects">
       <sound>sound\LightSaber</sound>
     </sounds>
+    <sounds name="Galaga">
+      <sound>sound\Lasersoudngalaga</sound>
+      <sound>sound\Spaceexplosiongalaga</sound>
+    </sounds>
+    <sound>sound\Electronicwhirring_good_for_galagatodungeon</sound>
+    <sound>sound\Pong_Sound</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Title_Screen">
@@ -84,6 +90,7 @@
     <background>background\Platformer</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\font_RS</font>
   </fonts>
@@ -111,10 +118,15 @@
     <room>rooms\room_exposition</room>
     <room>rooms\room_tutorial</room>
     <room>rooms\room_pong</room>
+    <room>rooms\The_Atari</room>
     <room>rooms\room_breakout</room>
+    <room>rooms\The_Game_Crash</room>
     <room>rooms\room_galaga</room>
+    <room>rooms\the_16_bit_era_NES</room>
     <room>rooms\room_platformer</room>
+    <room>rooms\the_32_bit_era_SNESandGENESIS</room>
     <room>rooms\room_dungeon_crawler</room>
+    <room>rooms\This_is_a_polygon</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
