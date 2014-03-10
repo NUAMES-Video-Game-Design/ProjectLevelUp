@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>globalvar player_score;
 player_score = 0;
-
+draw_text(10,10,player_score);
 </string>
           </argument>
         </arguments>
