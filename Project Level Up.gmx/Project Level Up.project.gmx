@@ -62,7 +62,9 @@
       <sprite>sprites\Space_Top_Enemy</sprite>
     </sprites>
     <sprites name="Platformer">
-      <sprite>sprites\Platform_Char</sprite>
+      <sprite>sprites\Platformer_Char</sprite>
+      <sprite>sprites\Platform_Char_Moving_RIght</sprite>
+      <sprite>sprites\Platformer_Char_Moving_Left</sprite>
       <sprite>sprites\Platfromer_brick</sprite>
       <sprite>sprites\Platformer_Enemy</sprite>
       <sprite>sprites\Platformer_Enemy_Dearh</sprite>
@@ -90,7 +92,6 @@
     <background>background\Platformer</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\font_RS</font>
   </fonts>
