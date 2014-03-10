@@ -105,6 +105,7 @@
       <object>objects\TSA_spash_space</object>
       <object>objects\obj_press_space</object>
       <object>objects\obj_title</object>
+      <object>objects\pressadespaca</object>
     </objects>
     <object>objects\obj_pixel</object>
     <object>objects\obj_startstory</object>
