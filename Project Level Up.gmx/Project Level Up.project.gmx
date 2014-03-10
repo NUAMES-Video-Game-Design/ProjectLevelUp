@@ -44,6 +44,7 @@
     <sprites name="Pong">
       <sprite>sprites\pong_ball</sprite>
       <sprite>sprites\Pong_Paddle</sprite>
+      <sprite>sprites\Pong_Wall</sprite>
     </sprites>
     <sprites name="Brick_Breaker">
       <sprite>sprites\Brick_Breaker_Wall</sprite>
