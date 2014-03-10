@@ -149,6 +149,62 @@
     <instance objName="obj_pong_wall" x="96" y="0" name="inst_D46BDACC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pong_wall" x="624" y="0" name="inst_D7FCF3BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pong_wall" x="608" y="0" name="inst_21F3FEF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="16" name="inst_0C824C9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="32" name="inst_01334437" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="48" name="inst_CF643CD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="64" name="inst_AC5D44D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="80" name="inst_73A18672" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="96" name="inst_A62CA6CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="112" name="inst_5DEA6550" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="128" name="inst_2D1A18C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="144" name="inst_80F4EC4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="160" name="inst_E201515B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="176" name="inst_B9640673" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="192" name="inst_94ACCBAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="208" name="inst_27C8AF79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="224" name="inst_36F59E3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="240" name="inst_171A857F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="256" name="inst_83F29180" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="272" name="inst_F1D51200" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="288" name="inst_66BB21F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="304" name="inst_5B17E32A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="320" name="inst_02F3C6BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="336" name="inst_4A031F07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="352" name="inst_645279F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="368" name="inst_92B8C7F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="384" name="inst_25DBF222" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="400" name="inst_1AA0DC95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="416" name="inst_9290A247" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="432" name="inst_58E64D63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_scoredetect_player" x="624" y="448" name="inst_8E0C0C76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="16" name="inst_74C84B93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="32" name="inst_40C2E87C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="48" name="inst_5A885793" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="64" name="inst_EC8F1A8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="80" name="inst_4A3533D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="96" name="inst_D0AD70AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="112" name="inst_F484EE82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="128" name="inst_967C9DE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="144" name="inst_92CF1226" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="160" name="inst_F63D7BA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="176" name="inst_BADCAFC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="192" name="inst_EB24DEFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="208" name="inst_9301E197" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="224" name="inst_7A2C5071" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="240" name="inst_DB66B0BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="256" name="inst_488498A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="272" name="inst_1BBD291E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="288" name="inst_4210B8F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="304" name="inst_B036F079" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="320" name="inst_24F3560F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="336" name="inst_B860A71A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="352" name="inst_BC0963D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="368" name="inst_5EA90C85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="384" name="inst_6FE9A04D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="400" name="inst_892E82C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="416" name="inst_761D25B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="432" name="inst_61A51E9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scoredetect_ai" x="0" y="448" name="inst_7D152FFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -46,6 +46,7 @@
       <sprite>sprites\Pong_Paddle</sprite>
       <sprite>sprites\Pong_Wall</sprite>
       <sprite>sprites\Pong_Barrier</sprite>
+      <sprite>sprites\pong_scoredetect</sprite>
     </sprites>
     <sprites name="Brick_Breaker">
       <sprite>sprites\Brick_Breaker_Wall</sprite>
@@ -85,6 +86,7 @@
       <sprite>sprites\Dungeon_enemy_1</sprite>
       <sprite>sprites\Dungeon_Enemy_1_Death</sprite>
     </sprites>
+    <sprite>sprites\clear</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Title_Screen</background>
@@ -96,6 +98,7 @@
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\font_RS</font>
+    <font>fonts\pong_score</font>
   </fonts>
   <objects name="objects">
     <objects name="pong">
@@ -105,6 +108,8 @@
       <object>objects\pong_ai</object>
       <object>objects\obj_pong_ball</object>
       <object>objects\obj_pong_barrier</object>
+      <object>objects\obj_pong_scoredetect_player</object>
+      <object>objects\obj_scoredetect_ai</object>
     </objects>
     <objects name="Title_Splash_and_Tutorial">
       <object>objects\obj_pressenter</object>
