@@ -97,6 +97,11 @@
     <font>fonts\font_RS</font>
   </fonts>
   <objects name="objects">
+    <objects name="pong">
+      <object>objects\Music_change_pong</object>
+      <object>objects\obj_pong_wall</object>
+      <object>objects\Pong_char</object>
+    </objects>
     <objects name="Title_Splash_and_Tutorial">
       <object>objects\obj_pressenter</object>
       <object>objects\obj_splash_screen</object>
@@ -110,9 +115,10 @@
     <object>objects\obj_pixel</object>
     <object>objects\obj_startstory</object>
     <object>objects\Wall_Parent_edit_to_change_wall_proporties</object>
-    <object>objects\obj_DWT</object>
-    <object>objects\obj_DW</object>
-    <object>objects\Music_change_pong</object>
+    <objects name="Dungeon">
+      <object>objects\obj_DWT</object>
+      <object>objects\obj_DW</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_tsa_spalsh_screen</room>
