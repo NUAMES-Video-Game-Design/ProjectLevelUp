@@ -100,7 +100,7 @@
     <objects name="pong">
       <object>objects\Music_change_pong</object>
       <object>objects\obj_pong_wall</object>
-      <object>objects\Pong_char</object>
+      <object>objects\obj_pong_char</object>
     </objects>
     <objects name="Title_Splash_and_Tutorial">
       <object>objects\obj_pressenter</object>
