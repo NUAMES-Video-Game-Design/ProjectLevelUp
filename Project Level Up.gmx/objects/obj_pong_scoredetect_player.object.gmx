@@ -142,7 +142,7 @@ draw_text(10,10,player_score);
 if(player_score == 10) {
     player_score = 0;
     ai_score = 0;
-    room_goto(The_Atari);
+    room_goto(room_8bit);
     }
 </string>
           </argument>
