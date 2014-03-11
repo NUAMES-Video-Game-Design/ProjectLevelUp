@@ -151,8 +151,14 @@
       <object>objects\obj_ballreturn</object>
       <object>objects\obj_triple</object>
     </objects>
+    <objects name="Platformer">
+      <object>objects\obj_castle</object>
+      <object>objects\obj_spacemario</object>
+      <object>objects\obj_ground</object>
+    </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_platformer</room>
     <room>rooms\room_title_screen</room>
     <room>rooms\room_exposition</room>
     <room>rooms\room_tutorial</room>
@@ -163,7 +169,6 @@
     <room>rooms\room_SpaceInvaders</room>
     <room>rooms\The_Game_Crash</room>
     <room>rooms\room_8bit</room>
-    <room>rooms\room_platformer</room>
     <room>rooms\room_16bit</room>
     <room>rooms\room_dungeon_crawler</room>
     <room>rooms\room_title_screen_alt</room>
