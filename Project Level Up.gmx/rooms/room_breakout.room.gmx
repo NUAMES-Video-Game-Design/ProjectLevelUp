@@ -324,6 +324,7 @@
     <instance objName="obj_paddle_stopper" x="544" y="64" name="inst_B42ADEEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_paddle_stopper" x="576" y="64" name="inst_716A180A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_paddle_stopper" x="608" y="64" name="inst_646D756D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bbball" x="368" y="384" name="inst_8CAC3706" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
