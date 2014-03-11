@@ -156,6 +156,7 @@
       <object>objects\obj_castle</object>
       <object>objects\obj_spacemario</object>
       <object>objects\obj_ground</object>
+      <object>objects\obj_nogo</object>
     </objects>
     <object>objects\obj_LevelChoice</object>
   </objects>
