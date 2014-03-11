@@ -159,7 +159,8 @@
     <room>rooms\room_pong</room>
     <room>rooms\The_Atari</room>
     <room>rooms\room_breakout</room>
-    <room>rooms\room_galaga</room>
+    <room>rooms\room_SpaceInvadersIntro</room>
+    <room>rooms\room_SpaceInvaders</room>
     <room>rooms\The_Game_Crash</room>
     <room>rooms\room_8bit</room>
     <room>rooms\room_platformer</room>
