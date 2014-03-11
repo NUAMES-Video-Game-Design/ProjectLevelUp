@@ -621,7 +621,6 @@
     <instance objName="obj_ballreturn" x="624" y="544" name="inst_23E81B13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ballreturn" x="624" y="544" name="inst_7804557B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ballreturn" x="624" y="544" name="inst_45456D32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_triple" x="304" y="16" name="inst_940912B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -90,6 +90,7 @@
       <sprite>sprites\Dungeon_Enemy_1_Death</sprite>
     </sprites>
     <sprite>sprites\clear</sprite>
+    <sprite>sprites\lord_Polygon</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Title_Screen</background>
@@ -99,6 +100,9 @@
     <background>background\Platformer</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\d3d_set_projection_rts.gml</script>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\font_RS</font>
     <font>fonts\pong_score</font>
@@ -126,7 +130,9 @@
       <object>objects\pressadespaca</object>
       <object>objects\obj_pixel</object>
       <object>objects\obj_startstory</object>
+      <object>objects\obj_reignoflordpolygon</object>
       <object>objects\Atari_Cutscene</object>
+      <object>objects\obj_lord_Polygon</object>
     </objects>
     <objects name="Dungeon">
       <object>objects\obj_DWT</object>
@@ -147,20 +153,20 @@
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room_breakout</room>
-    <room>rooms\room_pong</room>
     <room>rooms\room_title_screen</room>
-    <room>rooms\room_title_screen_alt</room>
     <room>rooms\room_exposition</room>
     <room>rooms\room_tutorial</room>
+    <room>rooms\room_pong</room>
     <room>rooms\The_Atari</room>
-    <room>rooms\The_Game_Crash</room>
+    <room>rooms\room_breakout</room>
     <room>rooms\room_galaga</room>
+    <room>rooms\The_Game_Crash</room>
     <room>rooms\room_8bit</room>
     <room>rooms\room_platformer</room>
     <room>rooms\room_16bit</room>
     <room>rooms\room_dungeon_crawler</room>
-    <room>rooms\This_is_a_polygon</room>
+    <room>rooms\room_title_screen_alt</room>
+    <room>rooms\room_this_is_a_polygon</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
