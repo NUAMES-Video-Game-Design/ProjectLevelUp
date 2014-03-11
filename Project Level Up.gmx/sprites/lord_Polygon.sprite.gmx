@@ -6,19 +6,210 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>0</bbox_left>
-  <bbox_right>63</bbox_right>
-  <bbox_top>0</bbox_top>
-  <bbox_bottom>63</bbox_bottom>
+  <bbox_left>5</bbox_left>
+  <bbox_right>248</bbox_right>
+  <bbox_top>7</bbox_top>
+  <bbox_bottom>249</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
-  <For3D>-1</For3D>
-  <width>64</width>
-  <height>64</height>
+  <For3D>0</For3D>
+  <width>255</width>
+  <height>255</height>
   <frames>
     <frame index="0">images\lord_Polygon_0.png</frame>
+    <frame index="1">images\lord_Polygon_1.png</frame>
+    <frame index="2">images\lord_Polygon_2.png</frame>
+    <frame index="3">images\lord_Polygon_3.png</frame>
+    <frame index="4">images\lord_Polygon_4.png</frame>
+    <frame index="5">images\lord_Polygon_5.png</frame>
+    <frame index="6">images\lord_Polygon_6.png</frame>
+    <frame index="7">images\lord_Polygon_7.png</frame>
+    <frame index="8">images\lord_Polygon_8.png</frame>
+    <frame index="9">images\lord_Polygon_9.png</frame>
+    <frame index="10">images\lord_Polygon_10.png</frame>
+    <frame index="11">images\lord_Polygon_11.png</frame>
+    <frame index="12">images\lord_Polygon_12.png</frame>
+    <frame index="13">images\lord_Polygon_13.png</frame>
+    <frame index="14">images\lord_Polygon_14.png</frame>
+    <frame index="15">images\lord_Polygon_15.png</frame>
+    <frame index="16">images\lord_Polygon_16.png</frame>
+    <frame index="17">images\lord_Polygon_17.png</frame>
+    <frame index="18">images\lord_Polygon_18.png</frame>
+    <frame index="19">images\lord_Polygon_19.png</frame>
+    <frame index="20">images\lord_Polygon_20.png</frame>
+    <frame index="21">images\lord_Polygon_21.png</frame>
+    <frame index="22">images\lord_Polygon_22.png</frame>
+    <frame index="23">images\lord_Polygon_23.png</frame>
+    <frame index="24">images\lord_Polygon_24.png</frame>
+    <frame index="25">images\lord_Polygon_25.png</frame>
+    <frame index="26">images\lord_Polygon_26.png</frame>
+    <frame index="27">images\lord_Polygon_27.png</frame>
+    <frame index="28">images\lord_Polygon_28.png</frame>
+    <frame index="29">images\lord_Polygon_29.png</frame>
+    <frame index="30">images\lord_Polygon_30.png</frame>
+    <frame index="31">images\lord_Polygon_31.png</frame>
+    <frame index="32">images\lord_Polygon_32.png</frame>
+    <frame index="33">images\lord_Polygon_33.png</frame>
+    <frame index="34">images\lord_Polygon_34.png</frame>
+    <frame index="35">images\lord_Polygon_35.png</frame>
+    <frame index="36">images\lord_Polygon_36.png</frame>
+    <frame index="37">images\lord_Polygon_37.png</frame>
+    <frame index="38">images\lord_Polygon_38.png</frame>
+    <frame index="39">images\lord_Polygon_39.png</frame>
+    <frame index="40">images\lord_Polygon_40.png</frame>
+    <frame index="41">images\lord_Polygon_41.png</frame>
+    <frame index="42">images\lord_Polygon_42.png</frame>
+    <frame index="43">images\lord_Polygon_43.png</frame>
+    <frame index="44">images\lord_Polygon_44.png</frame>
+    <frame index="45">images\lord_Polygon_45.png</frame>
+    <frame index="46">images\lord_Polygon_46.png</frame>
+    <frame index="47">images\lord_Polygon_47.png</frame>
+    <frame index="48">images\lord_Polygon_48.png</frame>
+    <frame index="49">images\lord_Polygon_49.png</frame>
+    <frame index="50">images\lord_Polygon_50.png</frame>
+    <frame index="51">images\lord_Polygon_51.png</frame>
+    <frame index="52">images\lord_Polygon_52.png</frame>
+    <frame index="53">images\lord_Polygon_53.png</frame>
+    <frame index="54">images\lord_Polygon_54.png</frame>
+    <frame index="55">images\lord_Polygon_55.png</frame>
+    <frame index="56">images\lord_Polygon_56.png</frame>
+    <frame index="57">images\lord_Polygon_57.png</frame>
+    <frame index="58">images\lord_Polygon_58.png</frame>
+    <frame index="59">images\lord_Polygon_59.png</frame>
+    <frame index="60">images\lord_Polygon_60.png</frame>
+    <frame index="61">images\lord_Polygon_61.png</frame>
+    <frame index="62">images\lord_Polygon_62.png</frame>
+    <frame index="63">images\lord_Polygon_63.png</frame>
+    <frame index="64">images\lord_Polygon_64.png</frame>
+    <frame index="65">images\lord_Polygon_65.png</frame>
+    <frame index="66">images\lord_Polygon_66.png</frame>
+    <frame index="67">images\lord_Polygon_67.png</frame>
+    <frame index="68">images\lord_Polygon_68.png</frame>
+    <frame index="69">images\lord_Polygon_69.png</frame>
+    <frame index="70">images\lord_Polygon_70.png</frame>
+    <frame index="71">images\lord_Polygon_71.png</frame>
+    <frame index="72">images\lord_Polygon_72.png</frame>
+    <frame index="73">images\lord_Polygon_73.png</frame>
+    <frame index="74">images\lord_Polygon_74.png</frame>
+    <frame index="75">images\lord_Polygon_75.png</frame>
+    <frame index="76">images\lord_Polygon_76.png</frame>
+    <frame index="77">images\lord_Polygon_77.png</frame>
+    <frame index="78">images\lord_Polygon_78.png</frame>
+    <frame index="79">images\lord_Polygon_79.png</frame>
+    <frame index="80">images\lord_Polygon_80.png</frame>
+    <frame index="81">images\lord_Polygon_81.png</frame>
+    <frame index="82">images\lord_Polygon_82.png</frame>
+    <frame index="83">images\lord_Polygon_83.png</frame>
+    <frame index="84">images\lord_Polygon_84.png</frame>
+    <frame index="85">images\lord_Polygon_85.png</frame>
+    <frame index="86">images\lord_Polygon_86.png</frame>
+    <frame index="87">images\lord_Polygon_87.png</frame>
+    <frame index="88">images\lord_Polygon_88.png</frame>
+    <frame index="89">images\lord_Polygon_89.png</frame>
+    <frame index="90">images\lord_Polygon_90.png</frame>
+    <frame index="91">images\lord_Polygon_91.png</frame>
+    <frame index="92">images\lord_Polygon_92.png</frame>
+    <frame index="93">images\lord_Polygon_93.png</frame>
+    <frame index="94">images\lord_Polygon_94.png</frame>
+    <frame index="95">images\lord_Polygon_95.png</frame>
+    <frame index="96">images\lord_Polygon_96.png</frame>
+    <frame index="97">images\lord_Polygon_97.png</frame>
+    <frame index="98">images\lord_Polygon_98.png</frame>
+    <frame index="99">images\lord_Polygon_99.png</frame>
+    <frame index="100">images\lord_Polygon_100.png</frame>
+    <frame index="101">images\lord_Polygon_101.png</frame>
+    <frame index="102">images\lord_Polygon_102.png</frame>
+    <frame index="103">images\lord_Polygon_103.png</frame>
+    <frame index="104">images\lord_Polygon_104.png</frame>
+    <frame index="105">images\lord_Polygon_105.png</frame>
+    <frame index="106">images\lord_Polygon_106.png</frame>
+    <frame index="107">images\lord_Polygon_107.png</frame>
+    <frame index="108">images\lord_Polygon_108.png</frame>
+    <frame index="109">images\lord_Polygon_109.png</frame>
+    <frame index="110">images\lord_Polygon_110.png</frame>
+    <frame index="111">images\lord_Polygon_111.png</frame>
+    <frame index="112">images\lord_Polygon_112.png</frame>
+    <frame index="113">images\lord_Polygon_113.png</frame>
+    <frame index="114">images\lord_Polygon_114.png</frame>
+    <frame index="115">images\lord_Polygon_115.png</frame>
+    <frame index="116">images\lord_Polygon_116.png</frame>
+    <frame index="117">images\lord_Polygon_117.png</frame>
+    <frame index="118">images\lord_Polygon_118.png</frame>
+    <frame index="119">images\lord_Polygon_119.png</frame>
+    <frame index="120">images\lord_Polygon_120.png</frame>
+    <frame index="121">images\lord_Polygon_121.png</frame>
+    <frame index="122">images\lord_Polygon_122.png</frame>
+    <frame index="123">images\lord_Polygon_123.png</frame>
+    <frame index="124">images\lord_Polygon_124.png</frame>
+    <frame index="125">images\lord_Polygon_125.png</frame>
+    <frame index="126">images\lord_Polygon_126.png</frame>
+    <frame index="127">images\lord_Polygon_127.png</frame>
+    <frame index="128">images\lord_Polygon_128.png</frame>
+    <frame index="129">images\lord_Polygon_129.png</frame>
+    <frame index="130">images\lord_Polygon_130.png</frame>
+    <frame index="131">images\lord_Polygon_131.png</frame>
+    <frame index="132">images\lord_Polygon_132.png</frame>
+    <frame index="133">images\lord_Polygon_133.png</frame>
+    <frame index="134">images\lord_Polygon_134.png</frame>
+    <frame index="135">images\lord_Polygon_135.png</frame>
+    <frame index="136">images\lord_Polygon_136.png</frame>
+    <frame index="137">images\lord_Polygon_137.png</frame>
+    <frame index="138">images\lord_Polygon_138.png</frame>
+    <frame index="139">images\lord_Polygon_139.png</frame>
+    <frame index="140">images\lord_Polygon_140.png</frame>
+    <frame index="141">images\lord_Polygon_141.png</frame>
+    <frame index="142">images\lord_Polygon_142.png</frame>
+    <frame index="143">images\lord_Polygon_143.png</frame>
+    <frame index="144">images\lord_Polygon_144.png</frame>
+    <frame index="145">images\lord_Polygon_145.png</frame>
+    <frame index="146">images\lord_Polygon_146.png</frame>
+    <frame index="147">images\lord_Polygon_147.png</frame>
+    <frame index="148">images\lord_Polygon_148.png</frame>
+    <frame index="149">images\lord_Polygon_149.png</frame>
+    <frame index="150">images\lord_Polygon_150.png</frame>
+    <frame index="151">images\lord_Polygon_151.png</frame>
+    <frame index="152">images\lord_Polygon_152.png</frame>
+    <frame index="153">images\lord_Polygon_153.png</frame>
+    <frame index="154">images\lord_Polygon_154.png</frame>
+    <frame index="155">images\lord_Polygon_155.png</frame>
+    <frame index="156">images\lord_Polygon_156.png</frame>
+    <frame index="157">images\lord_Polygon_157.png</frame>
+    <frame index="158">images\lord_Polygon_158.png</frame>
+    <frame index="159">images\lord_Polygon_159.png</frame>
+    <frame index="160">images\lord_Polygon_160.png</frame>
+    <frame index="161">images\lord_Polygon_161.png</frame>
+    <frame index="162">images\lord_Polygon_162.png</frame>
+    <frame index="163">images\lord_Polygon_163.png</frame>
+    <frame index="164">images\lord_Polygon_164.png</frame>
+    <frame index="165">images\lord_Polygon_165.png</frame>
+    <frame index="166">images\lord_Polygon_166.png</frame>
+    <frame index="167">images\lord_Polygon_167.png</frame>
+    <frame index="168">images\lord_Polygon_168.png</frame>
+    <frame index="169">images\lord_Polygon_169.png</frame>
+    <frame index="170">images\lord_Polygon_170.png</frame>
+    <frame index="171">images\lord_Polygon_171.png</frame>
+    <frame index="172">images\lord_Polygon_172.png</frame>
+    <frame index="173">images\lord_Polygon_173.png</frame>
+    <frame index="174">images\lord_Polygon_174.png</frame>
+    <frame index="175">images\lord_Polygon_175.png</frame>
+    <frame index="176">images\lord_Polygon_176.png</frame>
+    <frame index="177">images\lord_Polygon_177.png</frame>
+    <frame index="178">images\lord_Polygon_178.png</frame>
+    <frame index="179">images\lord_Polygon_179.png</frame>
+    <frame index="180">images\lord_Polygon_180.png</frame>
+    <frame index="181">images\lord_Polygon_181.png</frame>
+    <frame index="182">images\lord_Polygon_182.png</frame>
+    <frame index="183">images\lord_Polygon_183.png</frame>
+    <frame index="184">images\lord_Polygon_184.png</frame>
+    <frame index="185">images\lord_Polygon_185.png</frame>
+    <frame index="186">images\lord_Polygon_186.png</frame>
+    <frame index="187">images\lord_Polygon_187.png</frame>
+    <frame index="188">images\lord_Polygon_188.png</frame>
+    <frame index="189">images\lord_Polygon_189.png</frame>
+    <frame index="190">images\lord_Polygon_190.png</frame>
+    <frame index="191">images\lord_Polygon_191.png</frame>
   </frames>
 </sprite>
