@@ -57,6 +57,7 @@
       <sprite>sprites\Brick_Breaker_Ball</sprite>
       <sprite>sprites\spr_shrink</sprite>
       <sprite>sprites\spr_grow</sprite>
+      <sprite>sprites\spr_triple</sprite>
     </sprites>
     <sprites name="Galaga">
       <sprite>sprites\Galaga_Shot</sprite>
@@ -140,7 +141,9 @@
       <object>objects\obj_shrink</object>
       <object>objects\obj_grow</object>
       <object>objects\obj_brick_ball</object>
+      <object>objects\obj_fake_ball</object>
       <object>objects\obj_ballreturn</object>
+      <object>objects\obj_triple</object>
     </objects>
   </objects>
   <rooms name="rooms">
