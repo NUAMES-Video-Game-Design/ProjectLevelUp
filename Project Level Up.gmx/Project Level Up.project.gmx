@@ -139,12 +139,6 @@
       <object>objects\obj_grow</object>
       <object>objects\obj_brick_ball</object>
       <object>objects\obj_brick_ballreturn</object>
-=======
-      <object>objects\bbball</object>
->>>>>>> 7b23a6e5409296ecdb1e877dba86cbb6ce383d55
-=======
-      <object>objects\bbball</object>
->>>>>>> 7b23a6e5409296ecdb1e877dba86cbb6ce383d55
     </objects>
   </objects>
   <rooms name="rooms">
