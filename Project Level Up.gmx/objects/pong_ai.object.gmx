@@ -25,8 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>globalvar count;
-count = 0;
+            <string>globalvar counter;
+counter = 0;
 </string>
           </argument>
         </arguments>
@@ -178,17 +178,17 @@ else {
           <argument>
             <kind>1</kind>
             <string>var a = irandom_range(10,5);
-if (a == 0 &amp;&amp; count == 0) {
+if (a == 0 &amp;&amp; counter == 0) {
     speed = 8;
     direction = 90;
 }
-else if(count == 0){
+else if(counter == 0){
     speed = 8;
     direction = 270;
 }
-count++;
-if(count &gt; 9) {
-    count = 0;
+counter++;
+if(counter &gt; 9) {
+    counter = 0;
     }
 </string>
           </argument>
