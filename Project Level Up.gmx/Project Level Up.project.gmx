@@ -129,20 +129,26 @@
       <object>objects\obj_DWT</object>
       <object>objects\obj_DW</object>
     </objects>
+    <objects name="Breakout">
+      <object>objects\obj_paddle</object>
+      <object>objects\obj_paddle_stopper</object>
+      <object>objects\obj_brick1</object>
+      <object>objects\obj_grow</object>
+    </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_breakout</room>
+    <room>rooms\room_pong</room>
     <room>rooms\room_title_screen</room>
     <room>rooms\room_title_screen_alt</room>
     <room>rooms\room_exposition</room>
     <room>rooms\room_tutorial</room>
-    <room>rooms\room_pong</room>
     <room>rooms\The_Atari</room>
-    <room>rooms\room_breakout</room>
     <room>rooms\The_Game_Crash</room>
     <room>rooms\room_galaga</room>
-    <room>rooms\the_16_bit_era_NES</room>
+    <room>rooms\room_8bit</room>
     <room>rooms\room_platformer</room>
-    <room>rooms\the_32_bit_era_SNESandGENESIS</room>
+    <room>rooms\room_16bit</room>
     <room>rooms\room_dungeon_crawler</room>
     <room>rooms\This_is_a_polygon</room>
   </rooms>
