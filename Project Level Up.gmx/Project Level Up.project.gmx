@@ -135,10 +135,12 @@
       <object>objects\obj_paddle</object>
       <object>objects\obj_paddle_wall</object>
       <object>objects\obj_brick1</object>
+      <object>objects\obj_brick2</object>
+      <object>objects\obj_brick3</object>
       <object>objects\obj_shrink</object>
       <object>objects\obj_grow</object>
       <object>objects\obj_brick_ball</object>
-      <object>objects\obj_brick_ballreturn</object>
+      <object>objects\obj_ballreturn</object>
     </objects>
   </objects>
   <rooms name="rooms">
