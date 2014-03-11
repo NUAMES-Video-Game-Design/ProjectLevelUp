@@ -75,7 +75,7 @@ draw_text(10,10,player_score);
           <argument>
             <kind>1</kind>
             <string>player_score++;
-if(ai_score == 10||player_score == 10) {
+if(player_score == 10) {
     player_score = 0;
     ai_score = 0;
     room_goto_next();

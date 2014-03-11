@@ -177,13 +177,13 @@ else {
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var a = irandom_range(0,1);
+            <string>var a = irandom_range(10,5);
 if (a == 0 &amp;&amp; count == 0) {
-    speed = 10;
+    speed = 8;
     direction = 90;
 }
 else if(count == 0){
-    speed = 10;
+    speed = 8;
     direction = 270;
 }
 count++;

@@ -53,7 +53,6 @@
     <instance objName="obj_pong_barrier" x="320" y="448" name="inst_91722844" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pong_char" x="32" y="256" name="inst_B7D83F2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="pong_ai" x="608" y="256" name="inst_864BF256" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_pong_ball" x="160" y="80" name="inst_31F54B7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pong_barrier" x="320" y="416" name="inst_7A18AA98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pong_barrier" x="320" y="32" name="inst_E6429114" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pong_barrier" x="320" y="64" name="inst_6BA1653B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -205,6 +204,8 @@
     <instance objName="obj_scoredetect_ai" x="0" y="416" name="inst_761D25B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_scoredetect_ai" x="0" y="432" name="inst_61A51E9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_scoredetect_ai" x="0" y="448" name="inst_7D152FFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Music_change_pong" x="16" y="448" name="inst_E317F8ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pong_ball" x="240" y="112" name="inst_5B35E668" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

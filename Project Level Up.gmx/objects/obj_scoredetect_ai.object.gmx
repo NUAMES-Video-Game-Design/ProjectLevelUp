@@ -74,10 +74,10 @@ ai_score = 0;
           <argument>
             <kind>1</kind>
             <string>ai_score++;
-if(ai_score == 10||player_score == 10) {
+if(ai_score == 10) {
     player_score = 0;
     ai_score = 0;
-    room_goto_next();
+    room_restart();
     }
 </string>
           </argument>
