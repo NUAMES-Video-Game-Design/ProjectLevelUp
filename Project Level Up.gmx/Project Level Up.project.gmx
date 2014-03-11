@@ -134,7 +134,6 @@
       <object>objects\obj_paddle_stopper</object>
       <object>objects\obj_brick1</object>
       <object>objects\obj_grow</object>
-      <object>objects\bbball</object>
     </objects>
   </objects>
   <rooms name="rooms">
