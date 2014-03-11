@@ -157,6 +157,7 @@
       <object>objects\obj_spacemario</object>
       <object>objects\obj_ground</object>
     </objects>
+    <object>objects\obj_LevelChoice</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title_screen</room>
@@ -171,7 +172,6 @@
     <room>rooms\room_platformer</room>
     <room>rooms\room_16bit</room>
     <room>rooms\room_dungeon_crawler</room>
-    <room>rooms\room_title_screen_alt</room>
     <room>rooms\room_this_is_a_polygon</room>
   </rooms>
   <help>

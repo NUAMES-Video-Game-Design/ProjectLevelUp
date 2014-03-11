@@ -33,7 +33,7 @@ count2 = 0
 text3 = "Glory to the polygon, may its angles be forever rendered."
 count3 = 0
 subtext = ""
-
+global.roomrestart = 1
 </string>
           </argument>
         </arguments>

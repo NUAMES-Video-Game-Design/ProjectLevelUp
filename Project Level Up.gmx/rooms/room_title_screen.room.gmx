@@ -55,6 +55,7 @@
     <instance objName="TSA_splash" x="80" y="432" name="inst_4C780121" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_press_space" x="320" y="352" name="inst_A4CA6B81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pixel" x="320" y="224" name="inst_9AD97B05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_LevelChoice" x="16" y="32" name="inst_E3C93479" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
