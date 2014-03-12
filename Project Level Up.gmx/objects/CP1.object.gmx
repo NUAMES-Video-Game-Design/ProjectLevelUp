@@ -25,8 +25,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>checkpointx = x
-checkpointy = y
+            <string>CP1check = 1
+CP2check = 0
+CP3check = 0
 </string>
           </argument>
         </arguments>

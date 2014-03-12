@@ -25,11 +25,13 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>gravity = 1
+            <string>CP1check = 0
+CP2check = 0
+CP3check = 0
+gravity = 1
 jump = 0
 var r, l;
-checkpointx = xstart
-checkpointy = ystart
+
 </string>
           </argument>
         </arguments>
@@ -165,8 +167,8 @@ else
 {
 if lives &gt; 1
 {lives -= 1
-x=checkpointx
-y=checkpointy
+x = xstart
+y = ystart
 }
 else
 {room_restart()
