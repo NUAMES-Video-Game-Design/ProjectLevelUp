@@ -199,7 +199,7 @@ if alarm [0] = 0
 }
 else if texttime = 5
 {
-room_goto(room_breakout)
+room_goto(room_SpaceInvaders)
 }
 </string>
           </argument>
