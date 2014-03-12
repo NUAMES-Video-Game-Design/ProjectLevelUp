@@ -124,6 +124,7 @@
       <object>objects\Music_change_pong</object>
       <object>objects\obj_pong_wall</object>
       <object>objects\obj_pong_char</object>
+      <object>objects\pong_player_2</object>
       <object>objects\pong_ai</object>
       <object>objects\obj_pong_ball</object>
       <object>objects\obj_pong_barrier</object>
