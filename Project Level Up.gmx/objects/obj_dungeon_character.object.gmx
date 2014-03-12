@@ -109,14 +109,14 @@ movespeed = 3
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if keyboard_check(vk_right)
+            <string>if keyboard_check(ord('D'))
 {direction=0 speed=5 image_speed=1 sprite_index=Dungeon_Character_Walk_Right}
-if keyboard_check(vk_up)
+if keyboard_check(ord('W'))
 {direction=90 speed=5 image_speed=1 sprite_index=Dungeon_Character_Walk_Up
 }
-if keyboard_check(vk_left)
+if keyboard_check(ord('A'))
 {direction=180 speed=5 image_speed=1 sprite_index=Dungeon_Character_Walk_Left}
-if keyboard_check(vk_down)
+if keyboard_check(ord('S'))
 {direction=270 speed=5 image_speed=1 sprite_index=Dungeon_Character_Walk_Down}
 if keyboard_check(vk_nokey) {speed=0 image_speed=0}
 </string>
