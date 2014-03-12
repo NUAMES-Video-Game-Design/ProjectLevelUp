@@ -18,7 +18,7 @@
       <sound>sound\Dungeonsong</sound>
     </sounds>
     <sounds name="Dungeon_Effects">
-      <sound>sound\LightSaber</sound>
+      <sound>sound\light_sword_sound</sound>
     </sounds>
     <sounds name="Galaga">
       <sound>sound\Lasersoudngalaga</sound>
@@ -147,6 +147,12 @@
       <object>objects\obj_DWT</object>
       <object>objects\obj_DW</object>
       <object>objects\obj_dungeon_character</object>
+      <object>objects\Dungeon_pather_v</object>
+      <object>objects\Dungeon_sprite_pather_h</object>
+      <object>objects\Dungeon_enemy_obj_parent</object>
+      <object>objects\Dungeon_Enemy_Die</object>
+      <object>objects\Enemy_h</object>
+      <object>objects\enemy_v</object>
     </objects>
     <objects name="Breakout">
       <object>objects\obj_paddle</object>
