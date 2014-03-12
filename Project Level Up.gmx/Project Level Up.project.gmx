@@ -187,6 +187,9 @@
 =======
     <object>objects\Wall</object>
     <object>objects\Working_Portal_dungoen</object>
+<<<<<<< HEAD
+>>>>>>> ab6429e47f4786585d8e40af89cecd8993b54a7a
+=======
 >>>>>>> ab6429e47f4786585d8e40af89cecd8993b54a7a
   </objects>
   <rooms name="rooms">
