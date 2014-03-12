@@ -152,6 +152,9 @@
       <object>objects\Space_invaders</object>
       <object>objects\obj_lord_Polygon</object>
       <object>objects\obj_Game_Controls</object>
+      <object>objects\obj_PongIsTwoPlayer</object>
+      <object>objects\obj_LeftSideRightSide</object>
+      <object>objects\obj_PressF1</object>
     </objects>
     <objects name="Dungeon">
       <object>objects\Character_AttackDONTOPUTINROOM</object>

@@ -53,6 +53,9 @@
     <instance objName="obj_tutorial_cntrls" x="320" y="240" name="inst_431F8814" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="pressadespaca" x="320" y="405" name="inst_E8EC915A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Game_Controls" x="304" y="30" name="inst_C8A1998C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PongIsTwoPlayer" x="320" y="420" name="inst_A9DEBC06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_LeftSideRightSide" x="320" y="450" name="inst_7F302387" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PressF1" x="16" y="15" name="inst_2349FFF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
