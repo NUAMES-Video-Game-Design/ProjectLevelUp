@@ -175,11 +175,19 @@
       <object>objects\obj_castle</object>
       <object>objects\obj_spacemario</object>
       <object>objects\obj_ground</object>
+      <object>objects\obj_floater</object>
       <object>objects\obj_nogo</object>
       <object>objects\obj_enemy_stopper</object>
       <object>objects\obj_enemy</object>
+      <object>objects\obj_floater_stopper</object>
+      <object>objects\obj_hedead</object>
     </objects>
     <object>objects\obj_LevelChoice</object>
+<<<<<<< HEAD
+=======
+    <object>objects\Wall</object>
+    <object>objects\Working_Portal_dungoen</object>
+>>>>>>> ab6429e47f4786585d8e40af89cecd8993b54a7a
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title_screen</room>

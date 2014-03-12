@@ -65,6 +65,11 @@
     <instance objName="obj_enemy" x="240" y="432" name="inst_BA475BD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_stopper" x="320" y="432" name="inst_11C7F7C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_stopper" x="176" y="432" name="inst_BFC069FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floater_stopper" x="2096" y="256" name="inst_3BD3B546" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floater_stopper" x="2848" y="256" name="inst_96448C73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floater" x="2192" y="208" name="inst_9DDA3398" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floater" x="2656" y="208" name="inst_A2C190B6" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_hedead" x="1968" y="544" name="inst_23172306" locked="0" code="" scaleX="125" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
