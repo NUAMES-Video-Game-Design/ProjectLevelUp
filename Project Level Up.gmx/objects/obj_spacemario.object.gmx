@@ -57,16 +57,34 @@ space = keyboard_check(vk_space);
 
 //Jumping Physics
 if jump = 1
-{sprite_index = Platform_Char_Moving_RIght
+{
+if !r and !l
+{
+sprite_index = Platform_Char_Moving_RIght
 image_index = 0
 image_speed = 0
 image_xscale = .75
 image_yscale = .75
-if r
-{hspeed = 7
 }
+else
+if r
+{
+hspeed = 7
+sprite_index = Platform_Char_Moving_RIght
+image_index = 0
+image_speed = 0
+image_xscale = .75
+image_yscale = .75
+}
+else
 if l
-{hspeed = -7
+{
+hspeed = -7
+sprite_index = Platformer_Char_Moving_Left
+image_index = 0
+image_speed = 0
+image_xscale = .75
+image_yscale = .75
 }
 }
 else
@@ -198,7 +216,7 @@ image_yscale = .75};
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-12</string>
+            <string>-19</string>
           </argument>
         </arguments>
       </action>
@@ -239,7 +257,7 @@ image_yscale = .75};
       </action>
     </event>
   </events>
-  <PhysicsObject>-1</PhysicsObject>
+  <PhysicsObject>0</PhysicsObject>
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>1</PhysicsObjectShape>
   <PhysicsObjectDensity>0.5</PhysicsObjectDensity>
