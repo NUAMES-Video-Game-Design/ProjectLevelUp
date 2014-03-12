@@ -175,6 +175,8 @@
       <object>objects\obj_nogo</object>
       <object>objects\obj_enemy_stopper</object>
       <object>objects\obj_enemy</object>
+      <object>objects\obj_enemy_dead</object>
+      <object>objects\obj_hedead</object>
     </objects>
     <object>objects\obj_LevelChoice</object>
     <object>objects\Wall</object>
