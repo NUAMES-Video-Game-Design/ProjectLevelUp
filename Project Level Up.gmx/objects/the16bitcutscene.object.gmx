@@ -25,16 +25,13 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>text = "Fortunatly, the Pixel recovered"
-text2 = "Hundreds, upon thousands of new people and ideas graced his kingdom"
+            <string>text = "Fortunately, the Pixel recovered"
+text2 = "Hundreds upon thousands of new people and ideas graced his kingdom"
 count = 0
 texttime = 0
 count2 = 0
 text3 = "Great glory to the pixel, may it forever be pixelated."
 count3 = 0
-text4 = "(Next game, Space Invaders, 2 million units, first game to sell over 1 million"
-text5 = "(conrols- A= left D= right Spacebar= Shoot)"
-subtext = ""
 
 </string>
           </argument>

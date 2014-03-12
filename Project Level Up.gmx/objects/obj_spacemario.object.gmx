@@ -165,8 +165,8 @@ else
 {
 if lives &gt; 1
 {lives -= 1
-x=xstart
-y=ystart
+x=checkpointx
+y=checkpointy
 }
 else
 {room_restart()

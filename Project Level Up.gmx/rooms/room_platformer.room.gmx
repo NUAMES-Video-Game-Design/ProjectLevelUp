@@ -63,14 +63,28 @@
     <instance objName="obj_ground" x="1456" y="144" name="inst_2F2A4040" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ground" x="1824" y="304" name="inst_CEBBD6F8" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy" x="240" y="432" name="inst_BA475BD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_stopper" x="320" y="432" name="inst_11C7F7C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_stopper" x="176" y="432" name="inst_BFC069FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_floater_stopper" x="2096" y="256" name="inst_3BD3B546" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_floater_stopper" x="2848" y="256" name="inst_96448C73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="496" y="432" name="inst_11C7F7C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="0" y="432" name="inst_BFC069FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floater_stopper" x="2016" y="256" name="inst_3BD3B546" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_floater_stopper" x="2976" y="256" name="inst_96448C73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floater" x="2192" y="208" name="inst_9DDA3398" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floater" x="2656" y="208" name="inst_A2C190B6" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_hedead" x="1968" y="544" name="inst_23172306" locked="0" code="" scaleX="125" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Platformer_Lives" x="112" y="80" name="inst_9ECBD2AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_pixel" x="3632" y="240" name="inst_97E83E81" locked="0" code="" scaleX="5" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="3440" y="464" name="inst_6EF2FF2B" locked="0" code="" scaleX="25" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy" x="1824" y="256" name="inst_9875086E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy" x="1040" y="432" name="inst_4979A27B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="736" y="432" name="inst_F6424E5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="1232" y="432" name="inst_50397292" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="1744" y="272" name="inst_8EE683B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="1888" y="272" name="inst_C099F470" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy" x="3424" y="432" name="inst_5983A6AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="3040" y="432" name="inst_13EFA3AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="3472" y="432" name="inst_38C704E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Checkpoint" x="1232" y="1024" name="inst_5E8AD028" locked="0" code="" scaleX="1" scaleY="16" colour="4294967295" rotation="0"/>
+    <instance objName="Checkpoint" x="1888" y="1024" name="inst_BC5CC846" locked="0" code="" scaleX="1" scaleY="16" colour="4294967295" rotation="0"/>
+    <instance objName="Checkpoint" x="3056" y="1024" name="inst_AF654836" locked="0" code="" scaleX="1" scaleY="16" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

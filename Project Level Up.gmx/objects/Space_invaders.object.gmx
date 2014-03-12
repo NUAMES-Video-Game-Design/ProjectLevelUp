@@ -26,7 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>text = "The Pixel thrived as the realm of space entered his domain"
-text2 = "Fot the first time he had over 1 million people visit his kingdom!"
+text2 = "For the first time he had over 1 million people visit his kingdom!"
 count = 0
 texttime = 0
 count2 = 0
@@ -171,7 +171,7 @@ if alarm [0] = 0
 }
 else if texttime = 3
 {
-room_goto(room_platformer)
+room_goto(room_SpaceInvaders)
 }
 </string>
           </argument>

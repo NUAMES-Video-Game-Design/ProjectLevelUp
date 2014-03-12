@@ -32,10 +32,6 @@ texttime = 0
 count2 = 0
 text3 = "Pray for the pixel, may it forever be pixelated."
 count3 = 0
-text4 = "(Next game, Space Invaders, 2 million units, first game to sell over 1 million"
-text5 = "(conrols- A= left D= right Spacebar= Shoot)"
-subtext = ""
-
 </string>
           </argument>
         </arguments>

@@ -182,6 +182,7 @@
       <object>objects\obj_floater_stopper</object>
       <object>objects\obj_hedead</object>
       <object>objects\obj_Platformer_Lives</object>
+      <object>objects\Checkpoint</object>
     </objects>
     <object>objects\obj_LevelChoice</object>
     <object>objects\Wall</object>
