@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>checkpoint = 0
-gravity = 1
+            <string>gravity = 1
 jump = 0
 var r, l;
 
@@ -133,7 +132,7 @@ image_yscale = .75};
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_enemy">
+    <event eventtype="4" ename="obj_floater">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -150,32 +149,56 @@ image_yscale = .75};
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (y-sprite_yoffset+sprite_height &lt; other.y-other.sprite_yoffset+other.sprite_height/2)
-{
-sound_play(Pong_Sound)
-   // process the squash
-   with (other)
-   {
-   instance_destroy();
-   }
-   // bounce player up
-   jump = 1; // or whatever your variable for indicating state is
-   vspeed = -8; // or whatever speed makes sense for your game
-}
-else
-{
-if lives &gt; 1
-{
-lives -=1
-x=xstart
-y=ystart
-}
-else
-{
-room_restart()
-}
-}
+            <string>jump = 0
 </string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>116</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_move_contact</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>direction</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>12</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>104</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_set_vspeed</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
