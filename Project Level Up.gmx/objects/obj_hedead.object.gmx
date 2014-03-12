@@ -105,11 +105,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>checkpointx</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>checkpointy</string>
           </argument>
         </arguments>
       </action>
@@ -196,5 +196,8 @@
   <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
-  <PhysicsShapePoints/>
+  <PhysicsShapePoints>
+    <point>16,64</point>
+    <point>16,16</point>
+  </PhysicsShapePoints>
 </object>

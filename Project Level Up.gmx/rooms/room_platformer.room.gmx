@@ -70,6 +70,7 @@
     <instance objName="obj_floater" x="2192" y="208" name="inst_9DDA3398" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floater" x="2656" y="208" name="inst_A2C190B6" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_hedead" x="1968" y="544" name="inst_23172306" locked="0" code="" scaleX="125" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Platformer_Lives" x="112" y="80" name="inst_9ECBD2AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
