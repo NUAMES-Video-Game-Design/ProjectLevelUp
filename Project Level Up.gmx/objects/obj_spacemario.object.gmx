@@ -51,8 +51,8 @@ var r, l;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>r= keyboard_check(vk_right); 
-l= keyboard_check(vk_left); 
+            <string>r= keyboard_check(ord('D')); 
+l= keyboard_check(ord('A')); 
 space = keyboard_check(vk_space); 
 
 //Jumping Physics
@@ -114,7 +114,7 @@ image_xscale = .75
 image_yscale = .75}; 
  
 //makes the instance move left. 
-if keyboard_check (vk_left) &amp;&amp; place_free(x-9,y)
+if keyboard_check (ord('A')) &amp;&amp; place_free(x-9,y)
 {hspeed = -9
 sprite_index = Platformer_Char_Moving_Left
 image_xscale = .75
