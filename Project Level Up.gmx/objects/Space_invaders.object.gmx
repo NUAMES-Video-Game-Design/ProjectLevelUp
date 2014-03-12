@@ -25,8 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>text = "The Pixel thrived as the realm of space entered his domain"
-text2 = "For the first time he had over 1 million people visit his kingdom!"
+            <string>text = "The Pixel thrived as the realm of space entered its domain"
+text2 = "For the first time it had over 1 million people visit its kingdom!"
 count = 0
 texttime = 0
 count2 = 0
@@ -34,8 +34,8 @@ text3 = "GLORY to the pixel, may it forever be pixelated."
 count3 = 0
 count4 = 0
 count5 = 0
-text4 = "(VG Hitory Factiod 2: Space Invaders, 2 million units, first game to sell over 1 million)"
-text5 = "(conrols- A= left D= right Spacebar= Shoot)"
+text4 = "(VG History Factoid 2: Space Invaders was the first game to sell over 1 million units)"
+text5 = "(controls: A = left, D = right, SpaceBar = Shoot)"
 subtext = ""
 
 </string>

@@ -27,10 +27,10 @@
             <kind>1</kind>
             <string>texttime = 0
 text = "Fortunately, the Pixel recovered"
-text2 = "Hundreds upon thousands of new people and ideas graced his kingdom"
+text2 = "Hundreds upon thousands of new people and ideas graced its kingdom"
 text3 = "Great glory to the pixel, may it forever be pixelated."
-text4 = "(VG History Factoid 4: Legend of Zelda was the first video game to feature a save option)"
-text5 = "(Controls: W-up A-left D-Right S-Down Spacebar-ATTACK)"
+text4 = "(VG History Factoid 4: The Legend of Zelda was the first video game to feature saving)"
+text5 = "(Controls: W = up, A = left, D = Right, S = Down, SpaceBar = ATTACK)"
 count = 0
 count2 = 0
 count4 = 0

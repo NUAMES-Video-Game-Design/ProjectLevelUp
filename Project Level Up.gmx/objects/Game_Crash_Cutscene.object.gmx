@@ -27,10 +27,10 @@
             <kind>1</kind>
             <string>texttime = 0
 text = "Sadly even the pixel had its bad days..."
-text2 = "In the era known as late 80's the pixel, and its kingdom crashed"
+text2 = "In the era known as the early 80s the pixel, and its kingdom crashed"
 text3 = "Pray for the pixel, may it forever be pixelated."
-text4 = "(VG History Factiod 3: Super Mario Bros for the NES was originally designed as shooter game)"
-text5 = "(Controls: A-left D-right Spacebar-JUMP)"
+text4 = "(VG History Factoid 3: Super Mario Bros for the NES was originally designed as a shooter)"
+text5 = "(Controls: A = left, D = right, SpaceBar = JUMP)"
 count = 0
 count2 = 0
 count4 = 0

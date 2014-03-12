@@ -29,8 +29,8 @@
 text = "The Pixel evolved, it advanced."
 text2 = "It ported forward, it continued on to new systems"
 text3 = "Glory to the pixel, may it forever be pixelated."
-text4 = "(VG History Factiod 1: The Atari was the most popular console of this generation of consoles)"
-text5 = "(Controls: A-left D-right Spacebar-launch ball from starting position)"
+text4 = "(VG History Factoid 1: The Atari was the most popular console of this generation of consoles)"
+text5 = "(Controls: A = left, D = right, SpaceBar = Launch Ball From Start)"
 count = 0
 count2 = 0
 count4 = 0
