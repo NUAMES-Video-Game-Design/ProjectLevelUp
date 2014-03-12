@@ -34,8 +34,8 @@ text3 = "GLORY to the pixel, may it forever be pixelated."
 count3 = 0
 count4 = 0
 count5 = 0
-text4 = "(Next game, Space Invaders, 2 million units, first game to sell over 1 million"
-text5 = "(conrols- A= left D= right Spacebar= Shoot)"
+text4 = "&gt;Next game, Space Invaders, 2 million units, first game to sell over 1 million"
+text5 = "&gt;controls- A= left D= right Spacebar= Shoot)"
 subtext = ""
 
 </string>

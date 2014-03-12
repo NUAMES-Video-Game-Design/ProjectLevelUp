@@ -52,6 +52,7 @@
   <instances>
     <instance objName="obj_pixel" x="320" y="224" name="inst_EBACB8BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="the16bitcutscene" x="64" y="304" name="inst_6E6FF67E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="song_cutscene" x="32" y="128" name="inst_80203675" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

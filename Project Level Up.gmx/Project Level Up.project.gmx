@@ -196,6 +196,13 @@
     </objects>
     <object>objects\obj_LevelChoice</object>
     <object>objects\Working_Portal_dungoen</object>
+    <objects name="Music">
+      <object>objects\song_cutscene</object>
+      <object>objects\song_platformer</object>
+      <object>objects\song_SpaceInvaders</object>
+      <object>objects\song_Dungeon</object>
+      <object>objects\song_Breakout</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title_screen</room>

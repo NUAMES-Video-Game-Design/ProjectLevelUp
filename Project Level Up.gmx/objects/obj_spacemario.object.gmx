@@ -168,7 +168,7 @@ else
 if lives &gt; 1
 {lives -= 1
 x = xstart
-y = ystart
+y = ystart-2
 }
 else
 {room_restart()
