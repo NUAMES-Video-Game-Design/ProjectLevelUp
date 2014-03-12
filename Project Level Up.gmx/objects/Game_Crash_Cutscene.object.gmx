@@ -25,14 +25,19 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>text = "Sadly even the pixel had its bad days..."
+            <string>texttime = 0
+text = "Sadly even the pixel had its bad days..."
 text2 = "In the era known as late 80's the pixel, and its kingdom crashed"
-count = 0
-texttime = 0
-count2 = 0
 text3 = "Pray for the pixel, may it forever be pixelated."
+text4 = ""
+text5 = ""
+count = 0
+count2 = 0
+count4 = 0
+count5 = 0
 count3 = 0
 subtext = ""
+
 </string>
           </argument>
         </arguments>
@@ -163,10 +168,36 @@ alarm [0] = 60
 }
 draw_text(room_width/2,2*room_height/3+16, subtext)
 if alarm [0] = 0
-{alarm [0] = -3
+{alarm [0] = -4
 }
 }
 else if texttime = 3
+{
+count3 += 1
+draw_text(room_width/2,2*room_height/3, string_copy (text4,.5,count4))
+if alarm [0] = -4
+{
+alarm [0] = 60
+}
+draw_text(room_width/2,2*room_height/3+16, subtext)
+if alarm [0] = 0
+{alarm [0] = -5
+}
+}
+else if texttime = 4
+{
+count3 += 1
+draw_text(room_width/2,2*room_height/3, string_copy (text5,.5,count5))
+if alarm [0] = -5
+{
+alarm [0] = 60
+}
+draw_text(room_width/2,2*room_height/3+16, subtext)
+if alarm [0] = 0
+{alarm [0] = -6
+}
+}
+else if texttime = 5
 {
 room_goto(room_platformer)
 }

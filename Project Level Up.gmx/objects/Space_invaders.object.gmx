@@ -32,6 +32,8 @@ texttime = 0
 count2 = 0
 text3 = "GLORY to the pixel, may it forever be pixelated."
 count3 = 0
+count4 = 0
+count5 = 0
 text4 = "(Next game, Space Invaders, 2 million units, first game to sell over 1 million"
 text5 = "(conrols- A= left D= right Spacebar= Shoot)"
 subtext = ""
@@ -166,12 +168,38 @@ alarm [0] = 60
 }
 draw_text(room_width/2,2*room_height/3+16, subtext)
 if alarm [0] = 0
-{alarm [0] = -3
+{alarm [0] = -4
 }
 }
 else if texttime = 3
 {
-room_goto(room_SpaceInvaders)
+count3 += 1
+draw_text(room_width/2,2*room_height/3, string_copy (text4,.5,count4))
+if alarm [0] = -4
+{
+alarm [0] = 60
+}
+draw_text(room_width/2,2*room_height/3+16, subtext)
+if alarm [0] = 0
+{alarm [0] = -5
+}
+}
+else if texttime = 4
+{
+count3 += 1
+draw_text(room_width/2,2*room_height/3, string_copy (text5,.5,count5))
+if alarm [0] = -5
+{
+alarm [0] = 60
+}
+draw_text(room_width/2,2*room_height/3+16, subtext)
+if alarm [0] = 0
+{alarm [0] = -6
+}
+}
+else if texttime = 5
+{
+room_goto(room_breakout)
 }
 </string>
           </argument>
