@@ -547,6 +547,8 @@
     <instance objName="obj_ballreturn" x="400" y="528" name="inst_C40FFEC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ballreturn" x="624" y="528" name="inst_23E81B13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ballreturn" x="560" y="528" name="inst_2C69960A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Breakout_Lives" x="528" y="432" name="inst_5354C6D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_triple" x="288" y="96" name="inst_09FBB622" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

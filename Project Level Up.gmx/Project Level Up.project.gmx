@@ -55,6 +55,7 @@
       <sprite>sprites\Brick_Breaker_Block_2</sprite>
       <sprite>sprites\Brick_Breaker_Block_1</sprite>
       <sprite>sprites\Brick_Breaker_Ball</sprite>
+      <sprite>sprites\Brick_Breaker_Life</sprite>
       <sprite>sprites\spr_shrink</sprite>
       <sprite>sprites\spr_grow</sprite>
       <sprite>sprites\spr_triple</sprite>
@@ -152,12 +153,15 @@
       <object>objects\obj_fake_ball</object>
       <object>objects\obj_ballreturn</object>
       <object>objects\obj_triple</object>
+      <object>objects\obj_Breakout_Lives</object>
     </objects>
     <objects name="Platformer">
       <object>objects\obj_castle</object>
       <object>objects\obj_spacemario</object>
       <object>objects\obj_ground</object>
       <object>objects\obj_nogo</object>
+      <object>objects\obj_enemy_stopper</object>
+      <object>objects\obj_enemy</object>
     </objects>
     <object>objects\obj_LevelChoice</object>
   </objects>

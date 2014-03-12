@@ -56,6 +56,15 @@
     <instance objName="obj_nogo" x="-16" y="240" name="inst_4E2FA704" locked="0" code="" scaleX="1" scaleY="15" colour="4294967295" rotation="0"/>
     <instance objName="obj_ground" x="128" y="320" name="inst_7596B38A" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ground" x="256" y="464" name="inst_A11865FF" locked="0" code="" scaleX="16" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="992" y="464" name="inst_DBFE5548" locked="0" code="" scaleX="16" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="1632" y="464" name="inst_479BCB2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="1344" y="320" name="inst_6F4E6FBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="1536" y="320" name="inst_79553E71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="1456" y="144" name="inst_2F2A4040" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="1824" y="304" name="inst_CEBBD6F8" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy" x="240" y="432" name="inst_BA475BD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="320" y="432" name="inst_11C7F7C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_stopper" x="176" y="432" name="inst_BFC069FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
