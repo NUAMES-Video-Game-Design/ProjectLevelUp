@@ -52,10 +52,10 @@
   <instances>
     <instance objName="obj_castle" x="3632" y="384" name="inst_46D914BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spacemario" x="64" y="400" name="inst_E09BFC41" locked="0" code="" scaleX="0.75" scaleY="0.75" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ground" x="16" y="464" name="inst_0947C3E7" locked="0" code="" scaleX="500" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="240" y="320" name="inst_A75597C8" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_nogo" x="-16" y="240" name="inst_4E2FA704" locked="0" code="" scaleX="1" scaleY="15" colour="4294967295" rotation="0"/>
     <instance objName="obj_ground" x="128" y="320" name="inst_7596B38A" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ground" x="240" y="320" name="inst_A75597C8" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ground" x="256" y="464" name="inst_A11865FF" locked="0" code="" scaleX="16" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
