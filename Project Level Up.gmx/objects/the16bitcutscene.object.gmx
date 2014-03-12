@@ -32,7 +32,7 @@ texttime = 0
 count2 = 0
 text3 = "Great glory to the pixel, may it forever be pixelated."
 count3 = 0
-
+subtext = ""
 </string>
           </argument>
         </arguments>
