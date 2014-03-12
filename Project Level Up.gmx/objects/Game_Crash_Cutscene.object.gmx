@@ -173,7 +173,7 @@ if alarm [0] = 0
 }
 else if texttime = 3
 {
-count3 += 1
+count4 += 1
 draw_text(room_width/2,2*room_height/3, string_copy (text4,.5,count4))
 if alarm [0] = -4
 {
@@ -186,7 +186,7 @@ if alarm [0] = 0
 }
 else if texttime = 4
 {
-count3 += 1
+count5 += 1
 draw_text(room_width/2,2*room_height/3, string_copy (text5,.5,count5))
 if alarm [0] = -5
 {
