@@ -115,9 +115,10 @@
       <object>objects\obj_space_captain</object>
       <object>objects\obj_shot</object>
       <object>objects\obj_enemy_1</object>
-      <object>objects\obj_enemy_2</object>
-      <object>objects\obj_top_enermy</object>
       <object>objects\obj_explosion</object>
+      <object>objects\obj_enemy_2</object>
+      <object>objects\Wall</object>
+      <object>objects\obj_top_enermy</object>
     </objects>
     <objects name="pong">
       <object>objects\Music_change_pong</object>
@@ -143,6 +144,9 @@
       <object>objects\obj_startstory</object>
       <object>objects\obj_reignoflordpolygon</object>
       <object>objects\Atari_Cutscene</object>
+      <object>objects\Game_Crash_Cutscene</object>
+      <object>objects\the16bitcutscene</object>
+      <object>objects\Space_invaders</object>
       <object>objects\obj_lord_Polygon</object>
     </objects>
     <objects name="Dungeon">
