@@ -133,6 +133,50 @@ image_yscale = .75};
         </arguments>
       </action>
     </event>
+    <event eventtype="4" ename="obj_enemy">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if (y-sprite_yoffset+sprite_height &lt; other.y-other.sprite_yoffset+other.sprite_height/2)
+{
+   sound_play(Pong_Sound); // whatever your sound is
+   with (other)
+   {
+   instance_destroy()
+   }
+   // bounce player up
+   jump = 1; // or whatever your variable for indicating state is
+   vspeed = -8; // or whatever speed makes sense for your game
+}
+else
+{
+if lives &gt; 1
+{lives -= 1
+x=xstart
+y=ystart
+}
+else
+{room_restart()
+}
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="4" ename="obj_floater">
       <action>
         <libid>1</libid>
@@ -200,50 +244,6 @@ image_yscale = .75};
           <argument>
             <kind>0</kind>
             <string>0</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-    <event eventtype="4" ename="obj_enemy">
-      <action>
-        <libid>1</libid>
-        <id>603</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>if (y-sprite_yoffset+sprite_height &lt; other.y-other.sprite_yoffset+other.sprite_height/2)
-{
-   sound_play(Pong_Sound); // whatever your sound is
-   with (other)
-   {
-   instance_destroy()
-   }
-   // bounce player up
-   jump = 1; // or whatever your variable for indicating state is
-   vspeed = -8; // or whatever speed makes sense for your game
-}
-else
-{
-if lives &gt; 1
-{lives -= 1
-x=xstart
-y=ystart
-}
-else
-{room_restart()
-}
-}
-</string>
           </argument>
         </arguments>
       </action>
