@@ -70,6 +70,7 @@
     </sprites>
     <sprites name="Platformer">
       <sprite>sprites\Platformer_Char</sprite>
+      <sprite>sprites\spr_Platformer_Lives</sprite>
       <sprite>sprites\Platform_Char_Moving_RIght</sprite>
       <sprite>sprites\Platformer_Char_Moving_Left</sprite>
       <sprite>sprites\Platfromer_brick</sprite>
@@ -184,6 +185,7 @@
       <object>objects\obj_enemy</object>
       <object>objects\obj_floater_stopper</object>
       <object>objects\obj_hedead</object>
+      <object>objects\obj_Platformer_Lives</object>
     </objects>
     <object>objects\obj_LevelChoice</object>
     <object>objects\Wall</object>
