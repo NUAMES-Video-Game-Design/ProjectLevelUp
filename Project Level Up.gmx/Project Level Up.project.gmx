@@ -151,6 +151,7 @@
       <object>objects\the16bitcutscene</object>
       <object>objects\Space_invaders</object>
       <object>objects\obj_lord_Polygon</object>
+      <object>objects\obj_Game_Controls</object>
     </objects>
     <objects name="Dungeon">
       <object>objects\Character_AttackDONTOPUTINROOM</object>
