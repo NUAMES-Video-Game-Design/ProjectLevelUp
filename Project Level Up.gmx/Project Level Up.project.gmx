@@ -140,6 +140,9 @@
       <object>objects\obj_startstory</object>
       <object>objects\obj_reignoflordpolygon</object>
       <object>objects\Atari_Cutscene</object>
+      <object>objects\Game_Crash_Cutscene</object>
+      <object>objects\the16bitcutscene</object>
+      <object>objects\Space_invaders</object>
       <object>objects\obj_lord_Polygon</object>
     </objects>
     <objects name="Dungeon">
