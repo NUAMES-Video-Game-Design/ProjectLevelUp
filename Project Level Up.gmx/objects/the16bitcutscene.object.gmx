@@ -29,8 +29,8 @@
 text = "Fortunately, the Pixel recovered"
 text2 = "Hundreds upon thousands of new people and ideas graced his kingdom"
 text3 = "Great glory to the pixel, may it forever be pixelated."
-text4 = ""
-text5 = ""
+text4 = "(VG History Factoid 4: Legend of Zelda was the first video game to feature a save option)"
+text5 = "(Controls: W-up A-left D-Right S-Down Spacebar-ATTACK)"
 count = 0
 count2 = 0
 count4 = 0
@@ -199,7 +199,7 @@ if alarm [0] = 0
 }
 else if texttime = 5
 {
-room_goto(room_breakout)
+room_goto(room_dungeon_crawler)
 }
 </string>
           </argument>

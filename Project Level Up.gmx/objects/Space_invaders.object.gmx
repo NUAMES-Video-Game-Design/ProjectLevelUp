@@ -34,7 +34,7 @@ text3 = "GLORY to the pixel, may it forever be pixelated."
 count3 = 0
 count4 = 0
 count5 = 0
-text4 = "(Next game, Space Invaders, 2 million units, first game to sell over 1 million"
+text4 = "(VG Hitory Factiod 2: Space Invaders, 2 million units, first game to sell over 1 million)"
 text5 = "(conrols- A= left D= right Spacebar= Shoot)"
 subtext = ""
 
@@ -199,7 +199,7 @@ if alarm [0] = 0
 }
 else if texttime = 5
 {
-room_goto(room_breakout)
+room_goto(room_SpaceInvaders)
 }
 </string>
           </argument>
